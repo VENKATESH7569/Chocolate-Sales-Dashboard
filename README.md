@@ -114,19 +114,11 @@ The goal of this dashboard is to help stakeholders:
 * Data Visualization
 * Analytical Thinking
 
----
+## Live Dashboard
 
-## Repository Contents
+View the interactive Power BI report here:
 
-```text
-Chocolate-Sales-Dashboard
-│
-├── Dashboard.pbix
-├── dashboard.png
-└── README.md
-```
-
----
+[Power BI Dashboard](https://app.powerbi.com/links/awuVIhlmYG?ctid=b40af1c2-2c41-4007-93b6-585ce29c80b9&pbi_source=linkShare&bookmarkGuid=2ac4846e-b7a6-4a74-81a4-69de97964a8f)
 
 ## Author
 
